@@ -2,7 +2,6 @@
 <head></head>
 <body>
 Hello, World!
-Bing Bong
 wow git is craaaaazy! This is version 2!
 </body>
 </html>
